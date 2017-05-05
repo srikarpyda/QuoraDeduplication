@@ -1,1 +1,1 @@
-tw
+The code for computing the vectors is located in dl4j-examples\dl4j-examples\src\main\java\org\deeplearning4j\examples\nlp.
